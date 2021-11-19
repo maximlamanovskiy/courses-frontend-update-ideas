@@ -1,0 +1,29 @@
+.main-content-block {
+  margin: 0 78px 0 50px;
+}
+
+.content-block-name {
+  margin-bottom: 20px;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #626262;
+}
+
+.topic__title {
+  margin-bottom: 40px;
+  font-size: 30px;
+  line-height: 35px;
+  color: #424243;
+}
+
+.main__text {
+  font-size: 14px;
+  line-height: 21px;
+  color: #626262;
+}
+
+.main-content__image {
+  margin: 101px 0 40px;
+}
