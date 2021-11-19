@@ -1,0 +1,38 @@
+.header {
+  width: 1060px;
+}
+
+.header-wrapper {
+  display: flex;
+  height: 160px;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.header__title {
+  font-family: Inconsolata, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 31px;
+  text-transform: uppercase;
+  color: #424243;
+}
+
+.header-menu {
+  display: flex;
+}
+
+.header-menu__item {
+  margin-left: 100px;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #626262;
+}
+
+.main-cover__image {
+  margin-bottom: 90px;
+}
